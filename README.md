@@ -1,2 +1,2 @@
-# tensorpuzzles
-Solutions to Tensor Puzzles by Sasha Rush
+# Tensor Puzzles
+My solutions to Tensor Puzzles by Sasha Rush
